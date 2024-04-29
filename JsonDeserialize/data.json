@@ -1,0 +1,17 @@
+{
+  "someProperty": "someValue",
+  "innerArray": [
+    {
+      "Name": "J",
+      "Age": 30
+    },
+    {
+      "Name": "A",
+      "Age": 25
+    },
+    {
+      "Name": "B",
+      "Age": 35
+    }
+  ]
+}
